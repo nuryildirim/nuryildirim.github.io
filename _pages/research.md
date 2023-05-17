@@ -13,8 +13,7 @@ Nur Yildirim, Changhoon Oh, Deniz Sayar, Kayla Brand, Supritha Challa, Violet Tu
 
 **Investigating How Practitioners Use Human-AI Guidelines: A Case Study on the People + AI Guidebook**  
 Nur Yildirim, Mahima Pushkarna, Nitesh Goyal, Martin Wattenberg, Fernanda Viégas.  
-*CHI 2023.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3544548.3580900){:target="_blank"}  
-🏅 Best Paper Honorable Mention Award
+*CHI 2023.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3544548.3580900){:target="_blank"} 🏅 Best Paper Honorable Mention Award
 
 **Uncovering the Practices and Opportunities for Cross-functional Collaboration around AI Fairness in Industry Practice**  
 Wesley Hanwen Deng, Nur Yildirim, Monica Chang, Motahhare Eslami, Kenneth Holstein, Michael Madaio.  
