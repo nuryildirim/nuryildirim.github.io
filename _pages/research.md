@@ -10,12 +10,12 @@ Check out [my Google Scholar](https://scholar.google.com/citations?user=1KjMCfQA
 **Creating Design Resources to Scaffold the Ideation of AI Concepts**  
 Nur Yildirim, Changhoon Oh, Deniz Sayar, Kayla Brand, Supritha Challa, Violet Turri, Nina Crosby Walton, Anna Elise Wong, Jodi Forlizzi, James McCann, John Zimmerman.  
 🏅 Best Paper Honorable Mention Award  
-*DIS 2023.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3563657.3596058){:target="_blank"} 
+*DIS 2023.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3563657.3596058){:target="_blank"} [[talk]](https://youtu.be/32O8ClueB_Q){:target="_blank"}  
 
 **Investigating How Practitioners Use Human-AI Guidelines: A Case Study on the People + AI Guidebook**  
 Nur Yildirim, Mahima Pushkarna, Nitesh Goyal, Martin Wattenberg, Fernanda Viégas.  
 🏅 Best Paper Honorable Mention Award  
-*CHI 2023.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3544548.3580900){:target="_blank"} 
+*CHI 2023.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3544548.3580900){:target="_blank"} [[talk]](https://youtu.be/JyLlkJEgNlE){:target="_blank"}  
 
 **Uncovering the Practices and Opportunities for Cross-functional Collaboration around AI Fairness in Industry Practice**  
 Wesley Hanwen Deng, Nur Yildirim, Monica Chang, Motahhare Eslami, Kenneth Holstein, Michael Madaio.  
