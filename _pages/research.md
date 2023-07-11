@@ -9,7 +9,8 @@ Check out [my Google Scholar](https://scholar.google.com/citations?user=1KjMCfQA
 
 **Creating Design Resources to Scaffold the Ideation of AI Concepts**  
 Nur Yildirim, Changhoon Oh, Deniz Sayar, Kayla Brand, Supritha Challa, Violet Turri, Nina Crosby Walton, Anna Elise Wong, Jodi Forlizzi, James McCann, John Zimmerman.  
-*DIS 2023 (to appear).* _(preprint coming soon)_
+🏅 Best Paper Honorable Mention Award  
+*DIS 2023.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3563657.3596058){:target="_blank"} 
 
 **Investigating How Practitioners Use Human-AI Guidelines: A Case Study on the People + AI Guidebook**  
 Nur Yildirim, Mahima Pushkarna, Nitesh Goyal, Martin Wattenberg, Fernanda Viégas.  
@@ -18,7 +19,7 @@ Nur Yildirim, Mahima Pushkarna, Nitesh Goyal, Martin Wattenberg, Fernanda Viéga
 
 **Uncovering the Practices and Opportunities for Cross-functional Collaboration around AI Fairness in Industry Practice**  
 Wesley Hanwen Deng, Nur Yildirim, Monica Chang, Motahhare Eslami, Kenneth Holstein, Michael Madaio.  
-*FAccT 2023 (to appear).* _(preprint coming soon)_
+*FAccT 2023.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3593013.3594037){:target="_blank"} 
 
 **How Experienced Designers of Enterprise Applications Engage AI as a Design Material**  
 Nur Yildirim, Alex Kass, Teresa Tung, Connor Upton, Donnacha Costello, Robert Giusti, Sinem Lacin, Sara Lovic, James O’Neill, Rudi O’Reilly Meehan, Eoin Ó Loideáin, Azzurra Pini, Medb Corcoran, Jeremiah Hayes, Diarmuid Cahalane, Gaurav Shivhare, Luigi Castoro, Giovanni Caruso, Changhoon Oh, James McCann, Jodi Forlizzi, John Zimmerman.  
