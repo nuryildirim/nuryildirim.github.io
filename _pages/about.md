@@ -17,12 +17,12 @@ I spent two wonderful summers working as a research intern at Google Research an
 
 My current projects include:
 ------
-* **AI Design Sprints:** Envisioning novel AI-enabled products and experiences is challenging. How can innovation teams ``sketch'' and ideate AI experiences broadly to discover low-risk, high-effort concepts in the early stages of AI product development? I am working with industry partners to facilitate AI Design Sprints within cross-functional product teams. If you'd like to set up a sprint at your organization, shoot me an email!
+* **AI Design Sprints:** Envisioning novel AI-enabled products and experiences is challenging. How can innovation teams ''sketch'' and ideate AI experiences broadly to discover low-risk, high-impact concepts in the early stages of AI product development? I am working with industry partners to facilitate AI Design Sprints within cross-functional product teams. If you'd like to set up a sprint at your organization, shoot me an email!
   
 
 ## News
 * June 2023 - 🏅 Received a Best Paper Honorable Mention Award at DIS 2023!
-* June 2023 - Started summer internship at Microsoft Research! Hosted by Anja Thieme and Hannah Richardson at the Health Futures team in Cambridge UK
+* June 2023 - Started summer internship at Microsoft Research! Hosted by Anja Thieme and Hannah Richardson on the Health Futures team in Cambridge UK
 * April 2023 - Paper accepted to DIS 2023! "Creating Design Resources to Scaffold the Ideation of AI Concepts" [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3563657.3596058){:target="_blank"}  
 * April 2023 - Paper accepted to FAccT 2023! "Uncovering the Practices and Opportunities for Cross-functional Collaboration around AI Fairness in Industry Practice" [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3593013.3594037){:target="_blank"}  
 * April 2023 – Served as an Associate Chair for DIS 2023
