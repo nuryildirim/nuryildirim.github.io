@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Nur👋"
+title: "Hi, I'm Nur👋 – I'm on the job market this year!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth year PhD student at the Human-Computer Interaction Institute at Carnegie Mellon University, where I'm advised by [John Zimmerman](https://www.hcii.cmu.edu/people/john-zimmerman){:target="_blank"} and [James McCann](http://www.cs.cmu.edu/~jmccann/){:target="_blank"}.
+I'm a sixth year PhD student at the Human-Computer Interaction Institute at Carnegie Mellon University, where I'm advised by [John Zimmerman](https://www.hcii.cmu.edu/people/john-zimmerman){:target="_blank"} and [James McCann](http://www.cs.cmu.edu/~jmccann/){:target="_blank"}.
 
-My research focuses on supporting cross-functional teams in envisioning AI products and experiences. I develop resources and innovation processes to (1) support more effective collaboration at the ideation and problem formulation stages of a project; (2) sensitize teams to AI capabilities, limitations, and risks; and (3) help teams more fully explore the problem-solution space before selecting what to implement. I leverage participatory approaches, such as design thinking and facilitation, to help teams identify strong matches between existing AI capabilities and actual needs, while simultaneously assessing each idea’s latent risks.
+<span style="color: red;">I'm looking for academic and industry research positions, please reach out if you are hiring!</span>
+
+I am a human-AI interaction designer and researcher. My research goal is to support cross-functional teams in envisioning human-centered AI products and services. I develop resources and innovation processes to (1) support AI concept ideation and problem formulation; (2) sensitize teams to AI capabilities, limitations, and risks; and (3) help teams more fully explore the problem-solution space before selecting what to implement. I leverage participatory approaches, such as design thinking and facilitation, to help teams identify low-risk, high-value AI use cases.
 
 I spent two wonderful summers working as a research intern at Google Research and Microsoft Research in Cambridge, MA and Cambridge, UK respectively. Before Carnegie Mellon, I worked as a design consultant in the industry for over 7 years, designing products ranging from medical to consumer electronics, assistive robots, transportation and toys. I received my master's and bachelor's in Industrial Design from [METU](https://www.metu.edu.tr/){:target="_blank"} in Turkey.
 
@@ -21,7 +23,11 @@ My current projects include:
   
 
 ## News
-* June 2023 - 🏅 Received a Best Paper Honorable Mention Award at DIS 2023!
+* March 2024 - Upcoming talk at South by Southwest (SXSW) on [Designing Successful AI Products and Services](https://panelpicker.sxsw.com/vote/134972){:target="_blank"} 
+* November 2023 - Invited talk at the University of Michigan [[AI Symposium 2023]](https://ai.engin.umich.edu/events/2023-ai-symposium/){:target="_blank"} [[Youtube]](https://youtu.be/Fo3FtsOrHec?feature=shared&t=792){:target="_blank"} 
+* October 2023 - Named an 🌟AI Rising Star🌟 by the Michigan AI Lab!
+* October 2023 - Guest lecture on AI Design Ideation at UT Austin iSchool's Understanding Human-Centered AI class
+* September 2023 – Serving as an Associate Chair for CHI 2024 on the Design subcommittee
 * June 2023 - Started summer internship at Microsoft Research! Hosted by Anja Thieme and Hannah Richardson on the Health Futures team in Cambridge UK
 * April 2023 - Paper accepted to DIS 2023! "Creating Design Resources to Scaffold the Ideation of AI Concepts" [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3563657.3596058){:target="_blank"}  
 * April 2023 - Paper accepted to FAccT 2023! "Uncovering the Practices and Opportunities for Cross-functional Collaboration around AI Fairness in Industry Practice" [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3593013.3594037){:target="_blank"}  
