@@ -28,6 +28,7 @@ My current projects include:
 * October 2023 - Named an 🌟AI Rising Star🌟 by the Michigan AI Lab!
 * October 2023 - Guest lecture on AI Design Ideation at UT Austin iSchool's Understanding Human-Centered AI class
 * September 2023 – Serving as an Associate Chair for CHI 2024 on the Design subcommittee
+* August 2023 - Invited talk at Microsoft on Designing Vision-Language Model Use Cases in Healthcare
 * July 2023 - 🏅 Received a Best Paper Honorable Mention Award at DIS 2023!
 * June 2023 - Started summer internship at Microsoft Research! Hosted by Anja Thieme and Hannah Richardson on the Health Futures team in Cambridge UK
 * April 2023 - Paper accepted to DIS 2023! "Creating Design Resources to Scaffold the Ideation of AI Concepts" [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3563657.3596058){:target="_blank"}  
