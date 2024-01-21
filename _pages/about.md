@@ -24,6 +24,7 @@ My current projects include:
 
 ## News
 * March 2024 - Upcoming talk at South by Southwest (SXSW) on [Designing Successful AI Products and Services](https://panelpicker.sxsw.com/vote/134972){:target="_blank"} 
+* January 2024 - Three papers accepted to CHI 2024!
 * November 2023 - Invited talk at the University of Michigan [[AI Symposium 2023]](https://ai.engin.umich.edu/events/2023-ai-symposium/){:target="_blank"} [[Youtube]](https://youtu.be/Fo3FtsOrHec?feature=shared&t=792){:target="_blank"} 
 * October 2023 - Named an 🌟AI Rising Star🌟 by the Michigan AI Lab!
 * October 2023 - Guest lecture on AI Design Ideation at UT Austin iSchool's Understanding Human-Centered AI class
