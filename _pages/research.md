@@ -7,6 +7,21 @@ author_profile: true
 
 Check out [my Google Scholar](https://scholar.google.com/citations?user=1KjMCfQAAAAJ&hl=en){:target="_blank"} for a full list.
 
+**Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language Applications for Radiology**  
+Nur Yildirim, Hannah Richardson, Teo Wetscherek, Junaid Bajwa, Joseph Jacob, Mark Pinnock, Stephen
+Harris, Daniel Coelho de Castro, Shruthi Bannur, Stephanie Hyland, Pratik Ghosh, Mercy Ranjit, Kenza
+Bouzid, Anton Schwaighofer, Fernando Pérez-García, Harshita Sharma, Ozan Oktay, Matthew Lungren,
+Javier Alvarez-Valle, Aditya Nori, Anja Thieme.    
+*CHI 2024 (to appear).* [preprint coming soon]
+
+**Sketching AI Concepts with Capabilities and Examples: AI Innovation in the Intensive Care Unit**  
+Nur Yildirim, Susanna Zlotnikov, Deniz Sayar, Jeremy Kahn, Leigh Bukowski, Sher Shah Amin, Kathryn Riman, Billie Davis, John Minturn, Andrew King, Dan Ricketts, Lu Tang, Venkatesh Sivaraman, Adam Perer, Sarah Preum, James McCann, John Zimmerman.  
+*CHI 2024 (to appear).* [preprint coming soon]
+
+**Investigating Why Clinicians Deviate from Standards of Care: Liberating Patients from Mechanical Ventilation in the ICU**  
+Nur Yildirim}, Susanna Zlotnikov, Aradhana Venkat, Gursimran Chawla, Jennifer Kim, Leigh Bukowski, Jeremy Kahn, James McCann, John Zimmerman.  
+*CHI 2024 (to appear).* [preprint coming soon]
+
 **Creating Design Resources to Scaffold the Ideation of AI Concepts**  
 Nur Yildirim, Changhoon Oh, Deniz Sayar, Kayla Brand, Supritha Challa, Violet Turri, Nina Crosby Walton, Anna Elise Wong, Jodi Forlizzi, James McCann, John Zimmerman.  
 🏅 Best Paper Honorable Mention Award  
