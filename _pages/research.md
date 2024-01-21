@@ -19,7 +19,7 @@ Nur Yildirim, Susanna Zlotnikov, Deniz Sayar, Jeremy Kahn, Leigh Bukowski, Sher 
 *CHI 2024 (to appear).* [preprint coming soon]
 
 **Investigating Why Clinicians Deviate from Standards of Care: Liberating Patients from Mechanical Ventilation in the ICU**  
-Nur Yildirim}, Susanna Zlotnikov, Aradhana Venkat, Gursimran Chawla, Jennifer Kim, Leigh Bukowski, Jeremy Kahn, James McCann, John Zimmerman.  
+Nur Yildirim, Susanna Zlotnikov, Aradhana Venkat, Gursimran Chawla, Jennifer Kim, Leigh Bukowski, Jeremy Kahn, James McCann, John Zimmerman.  
 *CHI 2024 (to appear).* [preprint coming soon]
 
 **Creating Design Resources to Scaffold the Ideation of AI Concepts**  
