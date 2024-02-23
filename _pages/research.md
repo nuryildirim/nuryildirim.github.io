@@ -12,15 +12,15 @@ Nur Yildirim, Hannah Richardson, Teo Wetscherek, Junaid Bajwa, Joseph Jacob, Mar
 Harris, Daniel Coelho de Castro, Shruthi Bannur, Stephanie Hyland, Pratik Ghosh, Mercy Ranjit, Kenza
 Bouzid, Anton Schwaighofer, Fernando Pérez-García, Harshita Sharma, Ozan Oktay, Matthew Lungren,
 Javier Alvarez-Valle, Aditya Nori, Anja Thieme.    
-*CHI 2024 (to appear).* [preprint coming soon]
+*CHI 2024 (to appear).* [preprint](https://arxiv.org/pdf/2402.14252.pdf){:target="_blank"}
 
 **Sketching AI Concepts with Capabilities and Examples: AI Innovation in the Intensive Care Unit**  
 Nur Yildirim, Susanna Zlotnikov, Deniz Sayar, Jeremy Kahn, Leigh Bukowski, Sher Shah Amin, Kathryn Riman, Billie Davis, John Minturn, Andrew King, Dan Ricketts, Lu Tang, Venkatesh Sivaraman, Adam Perer, Sarah Preum, James McCann, John Zimmerman.  
-*CHI 2024 (to appear).* [preprint coming soon]
+*CHI 2024 (to appear).* [preprint](https://arxiv.org/pdf/2402.13437.pdf){:target="_blank"}
 
 **Investigating Why Clinicians Deviate from Standards of Care: Liberating Patients from Mechanical Ventilation in the ICU**  
 Nur Yildirim, Susanna Zlotnikov, Aradhana Venkat, Gursimran Chawla, Jennifer Kim, Leigh Bukowski, Jeremy Kahn, James McCann, John Zimmerman.  
-*CHI 2024 (to appear).* [preprint coming soon]
+*CHI 2024 (to appear).* [preprint](https://arxiv.org/pdf/2402.13464.pdf){:target="_blank"}
 
 **Creating Design Resources to Scaffold the Ideation of AI Concepts**  
 Nur Yildirim, Changhoon Oh, Deniz Sayar, Kayla Brand, Supritha Challa, Violet Turri, Nina Crosby Walton, Anna Elise Wong, Jodi Forlizzi, James McCann, John Zimmerman.  
