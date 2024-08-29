@@ -12,7 +12,7 @@ I am an assistant professor in [the School of Data Science](https://datascience.
 
 <span style="color: red;">📢📢 I'm recruiting PhD students (fully funded) in Fall 2024. If you're interested in working with me, please send me an email with your CV and research interests.</span>
 
-I research Human-AI Interaction to make AI useful in real-world contexts. My research interests include designing and evaluating AI applications across domains, such healthcare, productivity, and public services. I use human-centered and participatory design approaches where I work with domain stakeholders throughout the AI development lifecycle (e.g., clinicians, knowledge workers).
+I research Human-AI Interaction to make AI useful in real-world contexts. My research interests include designing and evaluating AI applications across domains, such as healthcare, productivity, and public services. I use human-centered and participatory design approaches where I work with domain stakeholders throughout the AI development lifecycle (e.g., clinicians, knowledge workers).
 
 I received my Ph.D. in human-computer interaction from [the Human-Computer Interaction Institute](https://www.hcii.cmu.edu/){:target="_blank"} at Carnegie Mellon University, where I was advised by John Zimmerman and Jim McCann. I was also a research intern at industry research labs, including [the People + AI Research](https://pair.withgoogle.com/){:target="_blank"} at Google Deepmind, and [the Health Futures](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/){:target="_blank"} at Microsoft Research. My research has been generously supported by the National Science Foundation, the National Institutes of Health, and Accenture.
 
